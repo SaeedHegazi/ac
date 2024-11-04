@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     public void checkStatos(View view) {
         if (isOn) {
             isOn = false;
